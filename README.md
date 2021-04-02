@@ -1,1 +1,1 @@
-# PostgreSQL SQL linting tool
+# PostgreSQL script linting tool
