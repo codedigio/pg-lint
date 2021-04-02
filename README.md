@@ -1,1 +1,1 @@
-# plpgsql-lint
+# PostgreSQL SQL linting tool
